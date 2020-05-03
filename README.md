@@ -6,7 +6,7 @@
 * [File Descriptions](#File)
 * [Libraries Used](#Lib)
 * [Results](#Results)
-* [Licensing and Acknowledgements](#License)
+* [Acknowledgements](#Ack)
 
 ### Installation<a name="Install"></a>
 
@@ -35,6 +35,6 @@ The following python libraries have been used
 
 The main findings of the code can be found at the post available [here](https://medium.com/@sirishbhudolia88/a-look-at-how-indian-states-are-faring-against-covid-19-2717ebbf67f9).
 
-### Licensing, Authors, Acknowledgements<a name="License"></a>
+### Acknowledgements<a name="Ack"></a>
 
-The credit for the dataset goes to [this](https://api.covid19india.org/). However,they have recently updated their website and the dataset is no longer available in .csv format .The dataset is crowdsourced so the license is not required. 
+The credit for the dataset goes to [this](https://api.covid19india.org/). However,they have recently updated their website and the dataset is no longer available in .csv format.
